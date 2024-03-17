@@ -8,7 +8,7 @@
 </h1>
 
 <h4 align="center">One Sentence Every Day</h4>
-<h4 align="center">One 1% Every Day</h4>
+<h4 align="center">1% Every Day</h4>
 
 
 <p align="center">
