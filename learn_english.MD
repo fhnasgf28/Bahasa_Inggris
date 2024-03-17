@@ -1,0 +1,84 @@
+
+<h1 align="center">
+  <br>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <br>
+  Learn English Everyday
+  <br>
+</h1>
+
+<h4 align="center">One Sentence Every Day</h4>
+<h4 align="center">One 1% Every Day</h4>
+
+
+<p align="center">
+  <a href="https://badge.fury.io/js/electron-markdownify">
+    <img src="https://badge.fury.io/js/electron-markdownify.svg"
+         alt="Gitter">
+  </a>
+  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
+  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
+      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+  </a>
+  <a href="https://www.paypal.me/AmitMerchant">
+    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#related">Related</a> •
+  <a href="#license">License</a>
+</p>
+
+![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+
+## Kalimat Sapaan
+
+| Bahasa Inggris               | = |                       arti |
+|------------------------------|:-:|---------------------------:|
+| Hey, How are you?            |   |             Hai, Apa Kabar |
+| Hello, it's nice to see you! |   | Halo,senang bisa melihatmu |
+| Nice to meet you             |   |    senang bertemu denganmu |
+| How's it going?              |   |         Bagaimana sekarang |
+| Good to see you              |   |        senang Bertamu kamu |
+| its been a while             |   |                 sudah lama |
+| its pleasure to meet you     |   |   senang bertemu denganmu? |
+| How's life?                  |   |         bagaimana kabarmu? |
+| How have you been?           |   |      Bagaimana kabar anda? |
+| How are you doing            |   |               Apa kabarmu? |
+| pleased to meet you          |   | senang bertemu dengan anda |
+| How's your day               |   |           bagaimana harimu |
+
+
+
+> **Note**
+> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+
+
+## Download
+
+
+## Emailware
+
+## Credits
+
+
+## Related
+
+
+## Support
+
+## License
+
+MIT
+
+---
+
+> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
+> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
+> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+
