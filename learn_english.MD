@@ -74,8 +74,6 @@
 
 ## License
 
-MIT
-
 ---
 
 > [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
