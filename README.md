@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href=""><img src="" alt="Markdownify" width="200"></a>
   <br>
   Learn English Everyday
   <br>
@@ -34,8 +34,19 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
-
+| Bahasa Inggris              | = |                       arti |
+|-----------------------------|:-:|---------------------------:|
+|            |   |              |
+|  |   |  |
+|            |   |    |
+|              |   |          |
+|             |   |        |
+|            |   |                  |
+|   |   |    |
+|                  |   |          |
+|          |   |       |
+|            |   |               |
+|         |   |  |
 ## Kalimat Sapaan
 
 | Bahasa Inggris               | = |                       arti |
@@ -53,6 +64,22 @@
 | pleased to meet you          |   | senang bertemu dengan anda |
 | How's your day               |   |           bagaimana harimu |
 
+## Kalimat Tanya Jawab
+
+| Bahasa Inggris            | = |                       arti |
+|---------------------------|:-:|---------------------------:|
+| what is your name         |   |               siapa namamu |
+| what are you looking for? |   | apa yang sedang kamu cari? |
+| what do you like to do?   |   |      kamu sukanya ngapain? |
+| what's in your mind?      |   |    apa yang kamu pikirkan? |
+| what did you buy?         |   |        apa yang kamu beli? |
+| what time is it?          |   |       jam berapa sekarang? |
+| what is your job?         |   |           apa pekerjaanmu? |
+| what's the problem?       |   |            apa masalahnya? |
+| where should we go?       |   |    keman kita harus pergi? |
+|                           |   |                            |
+|                           |   |                            |
+|                           |   |                            |
 
 
 > **Note**
