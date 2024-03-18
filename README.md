@@ -1,7 +1,8 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="" alt="Markdownify" width="200"></a>
+
+[//]: # (  <a href=""><img src="" alt="Markdownify" width="200"></a>)
   <br>
   Learn English Everyday
   <br>
@@ -105,7 +106,24 @@
 | autumn         |   |   Musim Gugur |
 | available      |   |      tersedia |
 | behavior       |   |  Tingkah Laku |
-
+| afraid         |   |         takut |
+| afternoon      |   |          sore |
+| another        |   |     yang lain |
+| behavior       |   |  tingkah laku |
+| behind         |   |    dibelakang |
+| believe        |   |       percaya |
+| beside         |   |     disamping |
+| big            |   |         besar |
+| bread          |   |          roti |
+| breakfast      |   |  sarapan pagi |
+| bridge         |   |      jembatan |
+| candle         |   |         lilin |
+| candy          |   |        permen |
+| conversation   |   |    percakapan |
+| challenge      |   |     Tantangan |
+| chance         |   |       peluang |
+| childhood      |   |    Masa Kecil |
+| church         |   |        gereja |
 
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
