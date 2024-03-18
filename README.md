@@ -81,6 +81,31 @@
 |                           |   |                            |
 |                           |   |                            |
 
+## Kosa Kata
+| Bahasa Inggris | = |          arti |
+|----------------|:-:|--------------:|
+| always         |   |        selalu |
+| actualy        |   |    sebenarnya |
+| usualy         |   |      biasanya |
+| sometimes      |   | kadang-kadang |
+| suddenly       |   |     tiba-tiba |
+| after          |   |       setealh |
+| before         |   |       sebelum |
+| accompany      |   |      menemany |
+| admire         |   |     mengagumi |
+| adventure      |   |   petualangan |
+| affection      |   |  kasih sayang |
+| afraid         |   |         takut |
+| after          |   |       setelah |
+| alone          |   |     sendirian |
+| another        |   |     yang lain |
+| anything       |   |        apapun |
+| anywhere       |   |     dimanapun |
+| arrogant       |   |       sombong |
+| autumn         |   |   Musim Gugur |
+| available      |   |      tersedia |
+| behavior       |   |  Tingkah Laku |
+
 
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
