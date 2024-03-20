@@ -83,7 +83,7 @@
 |                           |   |                            |
 
 ## Kosa Kata
-| Bahasa Inggris | = |          arti |
+| Bahasa Inggris | = |          arti |                          
 |----------------|:-:|--------------:|
 | always         |   |        selalu |
 | actualy        |   |    sebenarnya |
@@ -124,6 +124,16 @@
 | chance         |   |       peluang |
 | childhood      |   |    Masa Kecil |
 | church         |   |        gereja |
+| conversation   |   |    Percakapan |
+| confident      |   |  percaya diri |
+| congratulation |   |       selamat |
+| country        |   |        Negara |
+| crazy          |   |          gila |
+| cry            |   |      menangis |
+| curious        |   |     penasaran |
+| cute           |   |          imut |
+| dangerous      |   |     berbahaya |
+| dark           |   |         gelap |
 
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
