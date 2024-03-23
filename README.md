@@ -48,92 +48,101 @@
 |          |   |       |
 |            |   |               |
 |         |   |  |
-## Kalimat Sapaan
-
-| Bahasa Inggris               | = |                       arti |
-|------------------------------|:-:|---------------------------:|
-| Hey, How are you?            |   |             Hai, Apa Kabar |
-| Hello, it's nice to see you! |   | Halo,senang bisa melihatmu |
-| Nice to meet you             |   |    senang bertemu denganmu |
-| How's it going?              |   |         Bagaimana sekarang |
-| Good to see you              |   |        senang Bertamu kamu |
-| its been a while             |   |                 sudah lama |
-| its pleasure to meet you     |   |   senang bertemu denganmu? |
-| How's life?                  |   |         bagaimana kabarmu? |
-| How have you been?           |   |      Bagaimana kabar anda? |
-| How are you doing            |   |               Apa kabarmu? |
-| pleased to meet you          |   | senang bertemu dengan anda |
-| How's your day               |   |           bagaimana harimu |
-
-## Kalimat Tanya Jawab
-
-| Bahasa Inggris            | = |                       arti |
-|---------------------------|:-:|---------------------------:|
-| what is your name         |   |               siapa namamu |
-| what are you looking for? |   | apa yang sedang kamu cari? |
-| what do you like to do?   |   |      kamu sukanya ngapain? |
-| what's in your mind?      |   |    apa yang kamu pikirkan? |
-| what did you buy?         |   |        apa yang kamu beli? |
-| what time is it?          |   |       jam berapa sekarang? |
-| what is your job?         |   |           apa pekerjaanmu? |
-| what's the problem?       |   |            apa masalahnya? |
-| where should we go?       |   |    keman kita harus pergi? |
-|                           |   |                            |
-|                           |   |                            |
-|                           |   |                            |
 
 ## Kosa Kata
-| Bahasa Inggris | = |          arti |                          
-|----------------|:-:|--------------:|
-| always         |   |        selalu |
-| actualy        |   |    sebenarnya |
-| usualy         |   |      biasanya |
-| sometimes      |   | kadang-kadang |
-| suddenly       |   |     tiba-tiba |
-| after          |   |       setealh |
-| before         |   |       sebelum |
-| accompany      |   |      menemany |
-| admire         |   |     mengagumi |
-| adventure      |   |   petualangan |
-| affection      |   |  kasih sayang |
-| afraid         |   |         takut |
-| after          |   |       setelah |
-| alone          |   |     sendirian |
-| another        |   |     yang lain |
-| anything       |   |        apapun |
-| anywhere       |   |     dimanapun |
-| arrogant       |   |       sombong |
-| autumn         |   |   Musim Gugur |
-| available      |   |      tersedia |
-| behavior       |   |  Tingkah Laku |
-| afraid         |   |         takut |
-| afternoon      |   |          sore |
-| another        |   |     yang lain |
-| behavior       |   |  tingkah laku |
-| behind         |   |    dibelakang |
-| believe        |   |       percaya |
-| beside         |   |     disamping |
-| big            |   |         besar |
-| bread          |   |          roti |
-| breakfast      |   |  sarapan pagi |
-| bridge         |   |      jembatan |
-| candle         |   |         lilin |
-| candy          |   |        permen |
-| conversation   |   |    percakapan |
-| challenge      |   |     Tantangan |
-| chance         |   |       peluang |
-| childhood      |   |    Masa Kecil |
-| church         |   |        gereja |
-| conversation   |   |    Percakapan |
-| confident      |   |  percaya diri |
-| congratulation |   |       selamat |
-| country        |   |        Negara |
-| crazy          |   |          gila |
-| cry            |   |      menangis |
-| curious        |   |     penasaran |
-| cute           |   |          imut |
-| dangerous      |   |     berbahaya |
-| dark           |   |         gelap |
+| Bahasa Inggris  | = |           arti |                          
+|-----------------|:-:|---------------:|
+| always          |   |         selalu |
+| actualy         |   |     sebenarnya |
+| usualy          |   |       biasanya |
+| sometimes       |   |  kadang-kadang |
+| suddenly        |   |      tiba-tiba |
+| after           |   |        setealh |
+| before          |   |        sebelum |
+| accompany       |   |       menemany |
+| admire          |   |      mengagumi |
+| adventure       |   |    petualangan |
+| affection       |   |   kasih sayang |
+| afraid          |   |          takut |
+| after           |   |        setelah |
+| alone           |   |      sendirian |
+| another         |   |      yang lain |
+| anything        |   |         apapun |
+| anywhere        |   |      dimanapun |
+| arrogant        |   |        sombong |
+| autumn          |   |    Musim Gugur |
+| available       |   |       tersedia |
+| behavior        |   |   Tingkah Laku |
+| afraid          |   |          takut |
+| afternoon       |   |           sore |
+| another         |   |      yang lain |
+| behavior        |   |   tingkah laku |
+| behind          |   |     dibelakang |
+| believe         |   |        percaya |
+| beside          |   |      disamping |
+| big             |   |          besar |
+| bread           |   |           roti |
+| breakfast       |   |   sarapan pagi |
+| bridge          |   |       jembatan |
+| candle          |   |          lilin |
+| candy           |   |         permen |
+| conversation    |   |     percakapan |
+| challenge       |   |      Tantangan |
+| chance          |   |        peluang |
+| childhood       |   |     Masa Kecil |
+| church          |   |         gereja |
+| conversation    |   |     Percakapan |
+| confident       |   |   percaya diri |
+| congratulation  |   |        selamat |
+| country         |   |         Negara |
+| crazy           |   |           gila |
+| cry             |   |       menangis |
+| curious         |   |      penasaran |
+| cute            |   |           imut |
+| dangerous       |   |      berbahaya |
+| dark            |   |          gelap |
+| doughter        |   | anak perempuan |
+| day             |   |           hari |
+| different       |   |        berbeda |
+| difficult       |   |          sulit |
+| dirty           |   |          kotor |
+| dissapear       |   |     menghilang |
+| disaster        |   |        bencana |
+| disgusting      |   |     menjijikan |
+| distance        |   |          jarak |
+| door            |   |          pintu |
+| dream           |   |          mimpi |
+| enough          |   |          cukup |
+| environment     |   |     lingkungan |
+| evening         |   |     malam hari |
+| every           |   |         setiap |
+| everybody       |   |    semua orang |
+| everyday        |   |    setiap hari |
+| everything      |   |      segalanya |
+| everywhere      |   |    dimana-mana |
+| expensive       |   |          mahal |
+| experience      |   |     pengalaman |
+| expert          |   |           ahli |
+| extraordinary   |   |     luar biasa |
+| family          |   |       keluarga |
+| famous          |   |       terkenal |
+| farmer          |   |         petani |
+| fast            |   |          cepat |
+| father & mother |   |     ayah & ibu |
+| feel            |   |         merasa |
+| field           |   |       lapangan |
+| rice-field      |   |          sawah |
+| finger          |   |           jari |
+| fish            |   |           ikan |
+| flood           |   |         banjir |
+| floor           |   |         lantai |
+| for             |   |          untuk |
+| forest          |   |          hutan |
+| forever         |   |      selamanya |
+| forget          |   |           lupa |
+| forgive         |   |      memaafkan |
+| freedom         |   |      kebebasan |
+| friend          |   |          teman |
 
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
