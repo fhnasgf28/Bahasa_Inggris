@@ -50,100 +50,121 @@
 |         |   |  |
 
 ## Kosa Kata
-| Bahasa Inggris  | = |           arti |                          
-|-----------------|:-:|---------------:|
-| always          |   |         selalu |
-| actualy         |   |     sebenarnya |
-| usualy          |   |       biasanya |
-| sometimes       |   |  kadang-kadang |
-| suddenly        |   |      tiba-tiba |
-| after           |   |        setealh |
-| before          |   |        sebelum |
-| accompany       |   |       menemany |
-| admire          |   |      mengagumi |
-| adventure       |   |    petualangan |
-| affection       |   |   kasih sayang |
-| afraid          |   |          takut |
-| after           |   |        setelah |
-| alone           |   |      sendirian |
-| another         |   |      yang lain |
-| anything        |   |         apapun |
-| anywhere        |   |      dimanapun |
-| arrogant        |   |        sombong |
-| autumn          |   |    Musim Gugur |
-| available       |   |       tersedia |
-| behavior        |   |   Tingkah Laku |
-| afraid          |   |          takut |
-| afternoon       |   |           sore |
-| another         |   |      yang lain |
-| behavior        |   |   tingkah laku |
-| behind          |   |     dibelakang |
-| believe         |   |        percaya |
-| beside          |   |      disamping |
-| big             |   |          besar |
-| bread           |   |           roti |
-| breakfast       |   |   sarapan pagi |
-| bridge          |   |       jembatan |
-| candle          |   |          lilin |
-| candy           |   |         permen |
-| conversation    |   |     percakapan |
-| challenge       |   |      Tantangan |
-| chance          |   |        peluang |
-| childhood       |   |     Masa Kecil |
-| church          |   |         gereja |
-| conversation    |   |     Percakapan |
-| confident       |   |   percaya diri |
-| congratulation  |   |        selamat |
-| country         |   |         Negara |
-| crazy           |   |           gila |
-| cry             |   |       menangis |
-| curious         |   |      penasaran |
-| cute            |   |           imut |
-| dangerous       |   |      berbahaya |
-| dark            |   |          gelap |
-| doughter        |   | anak perempuan |
-| day             |   |           hari |
-| different       |   |        berbeda |
-| difficult       |   |          sulit |
-| dirty           |   |          kotor |
-| dissapear       |   |     menghilang |
-| disaster        |   |        bencana |
-| disgusting      |   |     menjijikan |
-| distance        |   |          jarak |
-| door            |   |          pintu |
-| dream           |   |          mimpi |
-| enough          |   |          cukup |
-| environment     |   |     lingkungan |
-| evening         |   |     malam hari |
-| every           |   |         setiap |
-| everybody       |   |    semua orang |
-| everyday        |   |    setiap hari |
-| everything      |   |      segalanya |
-| everywhere      |   |    dimana-mana |
-| expensive       |   |          mahal |
-| experience      |   |     pengalaman |
-| expert          |   |           ahli |
-| extraordinary   |   |     luar biasa |
-| family          |   |       keluarga |
-| famous          |   |       terkenal |
-| farmer          |   |         petani |
-| fast            |   |          cepat |
-| father & mother |   |     ayah & ibu |
-| feel            |   |         merasa |
-| field           |   |       lapangan |
-| rice-field      |   |          sawah |
-| finger          |   |           jari |
-| fish            |   |           ikan |
-| flood           |   |         banjir |
-| floor           |   |         lantai |
-| for             |   |          untuk |
-| forest          |   |          hutan |
-| forever         |   |      selamanya |
-| forget          |   |           lupa |
-| forgive         |   |      memaafkan |
-| freedom         |   |      kebebasan |
-| friend          |   |          teman |
-
+| Bahasa Inggris   | = |           arti |                          
+|------------------|:-:|---------------:|
+| always           |   |         selalu |
+| actualy          |   |     sebenarnya |
+| usualy           |   |       biasanya |
+| sometimes        |   |  kadang-kadang |
+| suddenly         |   |      tiba-tiba |
+| after            |   |        setealh |
+| before           |   |        sebelum |
+| accompany        |   |       menemany |
+| admire           |   |      mengagumi |
+| adventure        |   |    petualangan |
+| affection        |   |   kasih sayang |
+| afraid           |   |          takut |
+| after            |   |        setelah |
+| alone            |   |      sendirian |
+| another          |   |      yang lain |
+| anything         |   |         apapun |
+| anywhere         |   |      dimanapun |
+| arrogant         |   |        sombong |
+| autumn           |   |    Musim Gugur |
+| available        |   |       tersedia |
+| behavior         |   |   Tingkah Laku |
+| afraid           |   |          takut |
+| afternoon        |   |           sore |
+| another          |   |      yang lain |
+| behavior         |   |   tingkah laku |
+| behind           |   |     dibelakang |
+| believe          |   |        percaya |
+| beside           |   |      disamping |
+| big              |   |          besar |
+| bread            |   |           roti |
+| breakfast        |   |   sarapan pagi |
+| bridge           |   |       jembatan |
+| candle           |   |          lilin |
+| candy            |   |         permen |
+| conversation     |   |     percakapan |
+| challenge        |   |      Tantangan |
+| chance           |   |        peluang |
+| childhood        |   |     Masa Kecil |
+| church           |   |         gereja |
+| conversation     |   |     Percakapan |
+| confident        |   |   percaya diri |
+| congratulation   |   |        selamat |
+| country          |   |         Negara |
+| crazy            |   |           gila |
+| cry              |   |       menangis |
+| curious          |   |      penasaran |
+| cute             |   |           imut |
+| dangerous        |   |      berbahaya |
+| dark             |   |          gelap |
+| doughter         |   | anak perempuan |
+| day              |   |           hari |
+| different        |   |        berbeda |
+| difficult        |   |          sulit |
+| dirty            |   |          kotor |
+| dissapear        |   |     menghilang |
+| disaster         |   |        bencana |
+| disgusting       |   |     menjijikan |
+| distance         |   |          jarak |
+| door             |   |          pintu |
+| dream            |   |          mimpi |
+| enough           |   |          cukup |
+| environment      |   |     lingkungan |
+| evening          |   |     malam hari |
+| every            |   |         setiap |
+| everybody        |   |    semua orang |
+| everyday         |   |    setiap hari |
+| everything       |   |      segalanya |
+| everywhere       |   |    dimana-mana |
+| expensive        |   |          mahal |
+| experience       |   |     pengalaman |
+| expert           |   |           ahli |
+| extraordinary    |   |     luar biasa |
+| family           |   |       keluarga |
+| famous           |   |       terkenal |
+| farmer           |   |         petani |
+| fast             |   |          cepat |
+| father & mother  |   |     ayah & ibu |
+| feel             |   |         merasa |
+| field            |   |       lapangan |
+| rice-field       |   |          sawah |
+| finger           |   |           jari |
+| fish             |   |           ikan |
+| flood            |   |         banjir |
+| floor            |   |         lantai |
+| for              |   |          untuk |
+| forest           |   |          hutan |
+| forever          |   |      selamanya |
+| forget           |   |           lupa |
+| forgive          |   |      memaafkan |
+| freedom          |   |      kebebasan |
+| friend           |   |          teman |
+| garden           |   |          kebun |
+| generous         |   |       dermawan |
+| get              |   |    mendapatkan |
+| give             |   |        memberi |
+| goverment        |   |     pemerintah |
+| grade            |   |        tingkat |
+| grandfahter      |   |          kakek |
+| grandmother      |   |          nenek |
+| grass            |   |         rumput |
+| guest            |   |           tamu |
+| habit            |   |      kebiasaan |
+| health           |   |           hati |
+| heaven           |   |          surga |
+| hell             |   |         neraka |
+| here             |   |         disini |
+| history          |   |        sejarah |
+| holiday          |   |        liburan |
+| honey            |   |           madu |
+| honour           |   |     kehormatan |
+| horrible         |   |     mengerikan |
+| hospital         |   |    rumah sakit |
+| hungry & thirsty |   |   lapar & haus |
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
