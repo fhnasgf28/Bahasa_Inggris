@@ -165,6 +165,36 @@
 | horrible         |   |     mengerikan |
 | hospital         |   |    rumah sakit |
 | hungry & thirsty |   |   lapar & haus |
+| ignore           |   |    mengabaikan |
+| important        |   |        penting |
+| impossible       |   |       mustahil |
+| interesting      |   |        menarik |
+| introduce        |   | memperkenalkan |
+| jealous          |   |        cemburu |
+| journey          |   |     perjalanan |
+| kitchen          |   |          dapur |
+| lake             |   |          danau |
+| landscape        |   |    pemandangan |
+| languange        |   |         bahasa |
+| loyal            |   |          setia |
+| library          |   |   perpustakaan |
+| life             |   |      kehidupan |
+| line             |   |          garis |
+| lonely           |   |       kesepian |
+| lucky            |   |      Beruntung |
+| magazine         |   |        majalah |
+| make             |   |        membuat |
+| matchmaker       |   |   mak comblang |
+| maybe            |   |        mungkin |
+| midnight         |   |   tengah malam |
+| milk             |   |           susu |
+| mind             |   |        pikiran |
+| mistake          |   |      kesalahan |
+| money            |   |           uang |
+| moon             |   |          bulan |
+| morning          |   |           pagi |
+| Mosque           |   |         masjid |
+| mountain         |   |         gunung |
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
