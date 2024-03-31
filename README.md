@@ -195,6 +195,42 @@
 | morning          |   |           pagi |
 | Mosque           |   |         masjid |
 | mountain         |   |         gunung |
+| Nature           |   |           alam |
+| naughty          |   |          nakal |
+| near             |   |          Dekat |
+| Neighbour        |   |       Tetangga |
+| Nervous          |   |          Gugup |
+| New              |   |           Baru |
+| news             |   |         berita |
+| newspaper        |   |          koran |
+| nobody           |   | tak seorangpun |
+| ocean            |   |         Lautan |
+| Office           |   |         kantor |
+| onion            |   |         Bawang |
+| open             |   |           buka |
+| opportunity      |   |     kesempatan |
+| ordinary         |   |          biasa |
+| paper            |   |         kertas |
+| park             |   |          taman |
+| parents          |   |       orangtua |
+| party            |   |          pesta |
+| passenger        |   |      penumpang |
+| perfect          |   |       sempurna |
+| path             |   |  jalan setapak |
+| picture          |   |         gambar |
+| place            |   |         tempat |
+| pocket           |   |           saku |
+| poem             |   |          sajak |
+| punishment       |   |        hukuman |
+| purpose          |   |         tujuan |
+|                  |   |                |
+|                  |   |                |
+|                  |   |                |
+|                  |   |                |
+|                  |   |                |
+|                  |   |                |
+|                  |   |                |
+|                  |   |                |
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
