@@ -135,6 +135,19 @@
 | dangerous      |   |     berbahaya |
 | dark           |   |         gelap |
 
+----------------
+KALIMAT DALAM BAHASA INGGRIS DAN TERJEMAHANNYA
+-------------------
+
+===
+i just finished some coding at a cafe
+
+bisa juga menggunakan kalimat ini ya 
+
+"i just finished working on some coding at a cafe"
+
+saya baru saja selesai mengerjakan sedikit coding di kafe
+
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
