@@ -148,6 +148,21 @@ bisa juga menggunakan kalimat ini ya
 
 saya baru saja selesai mengerjakan sedikit coding di kafe
 
+*****
+my main task today is to finish the development of a custom module in odoo for a client's inventory management system
+i run the local server on my mac to test the code changes before committing them to the main repository.
+as an odoo developer, i spend a lot of time writing and debugging code using pyhton and xml programming languages.
+every day at ten in the morning, our team holds a daily sync meeting via video call to discuss work progress.
+it is very importan to take short breaks and stretch so that my eyes don't get to tired from staring at the monitor.
+after work is done in the late afternoon, i shut down my laptop and usually relax for a bit by watching videos on my tablet.
+
+tugas utama saya hari ini adalah menyelesaikan pengembangan modul kustom di odoo untuk sistem manajement inventaris klien 
+saya menjalankan server local di perangkat mac saya untuk menguji perubahan kode sebelum mengirimkannya ke repositori utama
+sebagai devveloper odoo, saya banyak menghabiskan waktu menulis dan memperbaiki kode menggunakan bahasa pemrograman python dan xml
+setiap jam sepuluh pagi, tim kali mengadakan rapat singkronisasi harian melalui panggilan video untuk membahas progres pekerjaan 
+jika saya menemui kendala teknis yang sulit, saya akan meminta bantuan dari rekan developer senior melalui obrolan atau panggilan cepat.
+*****
+
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
