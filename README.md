@@ -182,7 +182,30 @@ saya sedang menyelidiki masalahnya sekarang
 i need more time to complete this task
 saya membutuhkan waktu tambahan untuk menyelesaikan tugas ini
 ****
+## Bug & troubleshooting
+***
+the error occurs when the module is installed
 
+error terjadi saat modul diinstal
+
+this seems to be a configuration issue
+
+ini sepertinya masalah konfigurasi
+
+i found the root couse of the problem 
+
+saya menemukan akar penyebab masalahnya
+
+the bug is related to the access rights 
+bug ini terkait hak akses
+
+the issue only happens in production 
+masalah ini hanya terjadi di production
+
+i cannot reproduce the issue on my local environment
+
+saya tidak bisa mereplikasi masalahnya di environment local
+***
 
 
 > **Note**
