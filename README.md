@@ -163,6 +163,28 @@ setiap jam sepuluh pagi, tim kali mengadakan rapat singkronisasi harian melalui 
 jika saya menemui kendala teknis yang sulit, saya akan meminta bantuan dari rekan developer senior melalui obrolan atau panggilan cepat.
 *****
 
+****
+i am currently working on this task 
+saya sedang mengerjakan tugas ini 
+
+i will uupdate you once it is completed
+saya akan memberi update setelah selesai
+
+the development is still in progress
+pengembangan masih sedang berjalan 
+
+this issue has been resolved
+masalah ini sudah diperbaiki 
+
+i am investigating the issue now 
+saya sedang menyelidiki masalahnya sekarang
+
+i need more time to complete this task
+saya membutuhkan waktu tambahan untuk menyelesaikan tugas ini
+****
+
+
+
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
