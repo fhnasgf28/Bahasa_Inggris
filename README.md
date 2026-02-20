@@ -211,6 +211,26 @@ she washed her car
 dia mencuci mobilnya 
 ***
 
+***
+i am an odoo developer at hashmicro, working remotely from home. My responsibilities include customizing odoo modules, developing new features, and integrating third party applications to support clients business processes.
+***
+***
+saya adalah seorang odoo developer di hashmicro, bekerja secara remote dari rumah. tanggung jawab saya meliputi melakukan kustomisasi modul odoo, mengembangkan fitur baru, dan mengintegrasikan aplikasi pihak ketiga untuk mendukung poses bisnis klien'
+***
+
+***
+as an odoo developer at hashmicro, i specialize in designing and implementing erp solutiions using odoo. i work from home, which allows me to stay productive while maintaining flexibility
+====
+----
+sebagai odoo developer di hashmicro, saya mengkhususkan diri dalam merancang dan mengimplementasikan solusi erp menggunakan odoo. saya bekerja dari rumah, yang memungkinkan saya tetap produktif sekaligus menjaga fleksibilitas.
+***
+
+***
+i work as an odoo developer at hashmicro, focusing on building and customizing erp solutions. since i work from home, i collaborate with my team online to deliver projects efficiently
+***
+***
+saya bekerja sebagai odoo developer di hashmicro, dengan fokus pada pengembangan dan kostumisasi solusi ERP, karena saya bekerja dari rumah, saya berkolaborasi dengan tim secara online untuk menyelesaikan proyek secara efisien.
+***
 > **Note**
 > If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
