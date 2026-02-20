@@ -231,8 +231,14 @@ i work as an odoo developer at hashmicro, focusing on building and customizing e
 ***
 saya bekerja sebagai odoo developer di hashmicro, dengan fokus pada pengembangan dan kostumisasi solusi ERP, karena saya bekerja dari rumah, saya berkolaborasi dengan tim secara online untuk menyelesaikan proyek secara efisien.
 ***
-> **Note**
-> If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
+***
+adulthood taught me thed discipline is showing up, especially when no one is watching. Every drop of sweat is a quiet investment in resilience, focus, and long-term growth."
+***
+----
+***
+kedewasaan mengajarkan bahwa disiplin adalah tetap hadir dan konsisten, bahkan saat tidak ada yang melihat. setiap keringat adalah investasi diam-diam untuk ketahanan mental, fokus, dan pertumbuhan jangka panjang-baik dalam olahrga maupun karir profesional
+***
+----
 
 
 ## Download
