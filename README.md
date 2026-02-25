@@ -246,6 +246,26 @@ hello word
 
 halo dunia
 ***
+
+***
+Set 1: Basic (paling penting)
+
+Hi, my name is Farhan.
+
+I’m from Indonesia.
+
+I’m learning English every day.
+
+Please speak slowly.
+
+Can you repeat that, please?
+
+I don’t understand yet.
+
+Thank you for your help.
+
+I will try again.
+***
 ## Download
 
 
