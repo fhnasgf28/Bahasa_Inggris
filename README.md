@@ -266,6 +266,19 @@ Thank you for your help.
 
 I will try again.
 ***
+
+***
+This feature requires backend and frontend changes.
+Fitur ini membutuhkan perubahan backend dan frontend.
+We need to update the database schema.
+Kita perlu memperbarui skema database.
+I added a new field to the model.
+Saya menambahkan field baru ke model.
+The migration script has been prepared.
+Script migrasi sudah disiapkan.
+The API integration is working properly.
+Integrasi API sudah berjalan dengan baik
+***
 ## Download
 
 
